@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Tyler Oldano. I'm a student at Syracyse university studying broadcast and digital journalism
+### My name is Tyler Oldano. I'm a student at Syracyse university studying broadcast and digital journalism
 <!--
 **flyingtjo/flyingtjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
