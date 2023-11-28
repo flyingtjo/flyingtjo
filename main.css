@@ -50,3 +50,12 @@ p {
   margin-top: 30px;
   margin-bottom: 30px;
 }
+.social {
+background-color: lightblue;
+  font-size: 18px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-bottom: 15px;
+}
