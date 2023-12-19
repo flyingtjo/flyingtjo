@@ -1,5 +1,6 @@
 body {
   margin: 0px;
+  bottom-margin: 50px;
 }
 
 
@@ -41,7 +42,6 @@ font-family: helvetica;
 .story-body {
   font-size: 20px;
   font-family: electra;
-  margin-bottom: 50px
 }
 
 .Article-image{
